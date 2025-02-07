@@ -5,6 +5,7 @@ def calcular_media(numeros):
 
 def main():
     print("Bem-vindo ao calculador de média!")
+    print("Ele está mais versátil!")
     numeros = []
     
     while True:
